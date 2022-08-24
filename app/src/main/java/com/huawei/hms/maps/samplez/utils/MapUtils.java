@@ -57,5 +57,5 @@ public class MapUtils {
 
     public static final float MIN_ZOOM_LEVEL = 3;
 
-    public static final String API_KEY = "YOUR API KEY";
+    public static final String API_KEY = "DAEDALFYP3pPoVvqtMzU54abf0X7qywGyAqceRH1Q8gghalgIoYL5hpHXDJr4XFuROemiTOoyclj8hBUbiD2jTMBD6NPxTwenGi9Eg==";
 }
